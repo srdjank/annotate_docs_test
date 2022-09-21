@@ -1,7 +1,10 @@
 ---
-title: Home
+title: Introduction
 layout: home
 ---
+1. TOC
+{:toc}
+
 # Annotate-on
 Annotate-on est une annoteuse collaborative rapide initialement développée pour les **sciences naturalistes** par le laboratoire [Dicen-idf](https://www.dicen-idf.org), pour l'infrastructure nationale de recherche [Recolnat](https://www.recolnat.org) regroupant notamment le [Cnam](https://www.cnam.fr) et le [MNHN](https://www.mnhn.fr). 
 
@@ -78,3 +81,4 @@ Pour packager l'application pour la plateforme locale:
 
 ```bash
 yarn package
+```
