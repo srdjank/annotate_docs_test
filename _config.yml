@@ -1,8 +1,9 @@
 title: Annotate-on documentation
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: Annotate-on est une annoteuse collaborative!
 theme: "just-the-docs"
+logo: "assets/img/Annotate_on_logo.png"
 
-url: 'https://just-the-docs.github.io'
+url: 'https://srdjank.github.io'
 
 aux_links:
-  "Template Repository": "https://github.com/just-the-docs/just-the-docs-template"
+  "Annotate-on Repository": "https://github.com/Annotate-on/Annotate-on"
