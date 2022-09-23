@@ -2,7 +2,8 @@
 title: Projets
 layout: default
 lang: fr
-permalink: /projects
+has_children: true
+permalink: /projects/
 ---
 
 1. TOC
@@ -25,12 +26,5 @@ Bibliothèque projet
 Chaque projet a sa propre bibliothèque d’images fixes et de vidéos.
 Le fonction de la bibliothèque est détaillé au chapitre « Bibliothèque »
 
-# GESTION DES PROJETS
 
- Ce bouton affiche la liste des projets connus par Annotate-on :
-- soit parce qu’ils ont été créés dans cet ordinateur
-- soit parce que présents dans un répertoire cloud ils ont été ajoutés dans cet Annotate-on
-Chaque projet peut être installé n’importe où dans l’ordinateur.
-
-![Image_projects](assets/img/projects1.jpg)
 

@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: home
+permalink: /
 ---
 1. TOC
 {:toc}
